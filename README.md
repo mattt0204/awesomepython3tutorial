@@ -24,7 +24,7 @@
 2. Data types
 3. Statements
 4. Function (1)
-5. 
+5. Function (2)
 6. ... is Preparing
 
 
