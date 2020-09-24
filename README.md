@@ -55,16 +55,16 @@ https://wikidocs.net/book/1
 
 # 목차
 
-1. Assignment - 완료
-2. Data types - 완료
-3. Statements - 완료
-4. Function (1) - 완료
-5. Function (2) - 완료
-6. Function (3) (Video) - 완료
-7. Decorator - 완료
-8. Copy - 완료
-9. Tip - 완료
-10. import (No video) - 미완료
+1. Assignment
+2. Data types
+3. Statements 
+4. Function (1) 
+5. Function (2) 
+6. Function (3) (부분적) 
+7. Decorator
+8. Copy
+9. Tip
+10. import 
 11. Class (No video) - 미완료
 12. as (No video) - 미완료
 13. open_with (No video) - 미완료
@@ -72,7 +72,7 @@ https://wikidocs.net/book/1
 
 # Appendix
 
-1.  debugging - 완료
+1.  debugging
 2.  Fibonacci - 미완료
 3.  monkey patching - 미완료
 4.  OOP(Object Oriented Programming)
