@@ -60,23 +60,20 @@ https://wikidocs.net/book/1
 3. Statements 
 4. Function (1) 
 5. Function (2) 
-6. Function (3) (부분적) 
+6. Function (3)
 7. Decorator
 8. Copy
 9. Tip
 10. import 
-11. Class (No video) - 미완료
-12. as (No video) - 미완료
-13. open_with (No video) - 미완료
-14. try_excepy_else_finally (No video) - 미완료
+11. Class - 미완료
+12. as_try_open_with
 
 # Appendix
 
 1.  debugging
-2.  Fibonacci - 미완료
-3.  monkey patching - 미완료
+2.  Fibonacci
+3.  monkey patching 
 4.  OOP(Object Oriented Programming)
-5.  
 
 
 
